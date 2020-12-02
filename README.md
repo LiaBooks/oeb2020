@@ -1235,7 +1235,7 @@ bold: **@0**
 
 Source: https://github.com/LiaTemplates/VTK
 
-@VTK.load(https://data.kitware.com/api/v1/file/58e665158d777f16d095fc2e/download)
+@VTK.loadIframe(https://kitware.github.io/vtk-js-datasets/data/vti/head-binary-zlib.vti)
 
 ---
 
