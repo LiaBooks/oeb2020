@@ -3,7 +3,7 @@ author:   André Dietrich  & Sebastian Zug
 
 email:    LiaScript@web.de
 
-version:  0.0.1
+version:  0.0.2
 
 date:     03/12/2020
 
@@ -44,8 +44,62 @@ Login & Register & Login again :-)
 7. click on `login`
 
 
-or choose a free editable site: todo
+---
 
+**OR SELECT ONE OF THE FOLLING LINKS**
+
+|   # | url                                                       |
+| ---:| --------------------------------------------------------- |
+|   1 | https://codilia.herokuapp.com/n6TzrylGSK-f1m1nAXwBQQ?both |
+|   2 | https://codilia.herokuapp.com/MhXqOjcnSUCpIrv48O5pNg?both |
+|   3 | https://codilia.herokuapp.com/bHQqxAAeQ4StNUoTwjz94Q?both |
+|   4 | https://codilia.herokuapp.com/fWmIR7hZSlykKxmYsuBZlw?both |
+|   5 | https://codilia.herokuapp.com/MHRN_Hp9QFC8xHftapdBGw?both |
+|   6 | https://codilia.herokuapp.com/_GVAZmTpQ_yGIQk0G63asA?both |
+|   7 | https://codilia.herokuapp.com/5OUOT9ZaTnaTJA3n686IVg?both |
+|   8 | https://codilia.herokuapp.com/TO-06YTXSQm5qUwUdQ4pGg?both |
+|   9 | https://codilia.herokuapp.com/LyeGXONXSOimEPBubIl-8Q?both |
+|  10 | https://codilia.herokuapp.com/fsbXPpibQna1FgsQr1sgtA?both |
+|  11 | https://codilia.herokuapp.com/Dpommo_YRAaAFcAIHY44rw?both |
+|  12 | https://codilia.herokuapp.com/RphIrog0QYalsjXzfsfa_w?both |
+|  13 | https://codilia.herokuapp.com/8GqygqWeRf-tiAP-dVO-JA?both |
+|  14 | https://codilia.herokuapp.com/3u1DfohiTc6trKtlQE5yZg?both |
+|  15 | https://codilia.herokuapp.com/lxHaZkg8QRujLxJa9yQPsQ?both |
+|  16 | https://codilia.herokuapp.com/FOVOeuu4RX-qjiVshGgG5Q?both |
+|  17 | https://codilia.herokuapp.com/lzWHp3K0QVmX-o9fwlXH6A?both |
+|  18 | https://codilia.herokuapp.com/KQ3ARdRbRpmqQjDVv3Q9cA?both |
+|  19 | https://codilia.herokuapp.com/BvSL0evlTPKXGxptG9pcdg?both |
+|  20 | https://codilia.herokuapp.com/I7pq9XB5TPGWXNDSiOquoA?both |
+|  21 | https://codilia.herokuapp.com/5qL67XXST8aw2CdbT5Dvgw?both |
+|  22 | https://codilia.herokuapp.com/YMj-3l5VQx-Z7YSEYDk6XA?both |
+|  23 | https://codilia.herokuapp.com/Dzn49tO8QLCvPEyhSoLMqQ?both |
+|  24 | https://codilia.herokuapp.com/wmF1U44SSqSWI6C46S6N_A?both |
+|  25 | https://codilia.herokuapp.com/svQAeTS0Tc28zMfVAr8LSg?both |
+|  26 | https://codilia.herokuapp.com/LdOYXRv7Sg6xmnKYxsGVcA?both |
+|  27 | https://codilia.herokuapp.com/AECMVz41QC2F1IrkcNrD4A?both |
+|  28 | https://codilia.herokuapp.com/b6ezpcPZRR2VCbcMC-bEKg?both |
+|  29 | https://codilia.herokuapp.com/FlGLIf1URsCsN_gHiabVOQ?both |
+|  30 | https://codilia.herokuapp.com/_qOenBo-RHKbcWmJG7X1TA?both |
+|  31 | https://codilia.herokuapp.com/nOeS3d-AS9a9Y_Qiz-9wpw?both |
+|  32 | https://codilia.herokuapp.com/meuk2fqIS8mthe-RZKmZEA?both |
+|  33 | https://codilia.herokuapp.com/JUJ9UGJIRpidv6rb8yRlhQ?both |
+|  34 | https://codilia.herokuapp.com/J43G8l2jS9Wb4XBSOsKjhQ?both |
+|  35 | https://codilia.herokuapp.com/CmRekW6vQ3u1XBKo2bQxjw?both |
+|  36 | https://codilia.herokuapp.com/s5IoMRbZRuWv0dCFmwWlvw?both |
+|  37 | https://codilia.herokuapp.com/xyZAf1e6Ra-9jvDEa_XIiA?both |
+|  38 | https://codilia.herokuapp.com/kHXVV6j9RJ-_f3JE-Gqm-w?both |
+|  39 | https://codilia.herokuapp.com/BTdh6fWUTBKn4b_JhMoOBA?both |
+|  40 | https://codilia.herokuapp.com/3ZigCemjS-uwY4b_bFdOXQ?both |
+|  41 | https://codilia.herokuapp.com/MOS8ZdhTQIaI935yAV6FAw?both |
+|  42 | https://codilia.herokuapp.com/hqCyRGbwSpe3IU4d5Swtdg?both |
+|  43 | https://codilia.herokuapp.com/-QaEfHumRpiM4g86N81kSw?both |
+|  44 | https://codilia.herokuapp.com/DNTAWchsSRGqW4TXxCmvIA?both |
+|  45 | https://codilia.herokuapp.com/DgR3cLpaSs6IjxZi8RFHKg?both |
+|  46 | https://codilia.herokuapp.com/eoA110AnR9iVoLVEryJElg?both |
+|  47 | https://codilia.herokuapp.com/s-3xv4lCSoC88N-CsYomAQ?both |
+|  48 | https://codilia.herokuapp.com/7NYA-KlLRlGJUSMQSo7RsQ?both |
+|  49 | https://codilia.herokuapp.com/v6tmlx0RSPCawREpkHvOfg?both |
+|  50 | https://codilia.herokuapp.com/nXnGyhO3TXOLRQKKG4-CYw?both |
 
 
 
@@ -83,6 +137,8 @@ style="width: 100%; height: 400px"
 
 
 ## History
+
+!?[elab Magdeburg](https://www.youtube.com/watch?v=bICfKRyKTwE)<!-- style="width: 100%; height: 50vw" -->
 
 
 ## __1. Problem: Lack of Community__
@@ -1205,7 +1261,9 @@ author: jet another author
 @bold: **@0**
 -->
 
-
+> LiaScript-Macros provide an easy text-substitution mechanism, which add
+> additional functionality while hiding repetive tasks while preserving the
+> readability of a document.
 
 
 ``` markdown
@@ -1227,11 +1285,27 @@ bold: **@0**
 @bold(some text)
 ```
 
----
-
 @bold(some text) from @bold(@author)
 
-### Macros & more
+---
+
+* Macros are indicated with an __`@`__ sign
+* __Global Macros (& settings):__ are defined within the initial HTML comment at
+  the beginning of every document.
+* __local macros:__ are defined at the beginning of every section.
+* Macros can be shared across documents and allow to use external:
+
+  - macros via `import:`
+  - JavaScript libraries via `script:`
+  - Style-Sheets via `link:`
+
+
+#### More Macros
+
+
+> Global Template repository: https://github.com/LiaTemplates
+
+---
 
 Source: https://github.com/LiaTemplates/VTK
 
@@ -1271,7 +1345,7 @@ void loop() {
 @AVR8js.sketch(example)
 
 
-### Quadratic function
+### Quadratic functions
 <!--
 
 param: $@0 = $ <script input="range" min="-30" max="30" value="@1" output="@0">@input</script>
@@ -1357,3 +1431,42 @@ $ f(x) = @input(`a`)x^2 + @input(`b`)x + @input(`c`) $
 
     "HTML: <lia-chart option='" + JSON.stringify(option) + "'></lia-chart>"
     </script>
+
+### Quizzes
+<!--
+
+@euro: <script input="range" min="0" max="30" value="@1" step="0.5" output="@0" default="@1" currency="EUR" localeStyle="currency" format="number">@input</script>
+
+liascript: <script run-once>`LIASCRIPT: @0`</script>
+
+-->
+
+
+It's Sophia's birthday. She wants to go to the swimming pool with her friends,
+pay for every child the entry  @euro(ticket,2) and buy an ice cream
+@euro(ice,1.5). How many friends can she invite if her mother gives her
+@euro(mom,25)?
+
+
+
+[[7]]
+<script>
+Math.abs(@input - (@input(`mom`) / (@input(`ticket`) + @input(`ice`)))) < 1
+</script>
+****************************
+
+Sophia can invite roughly
+<script>Math.floor( @input(`mom`)/(@input(`ticket`)+@input(`ice`)))</script>
+of her friends.
+
+Your resulting calculation should look like the following one:
+
+<script style="display:block">
+let mom = @input(`mom`);
+let ticket = @input(`ticket`);
+let ice = @input(`ice`);
+
+`LIASCRIPT: $$ ${Math.floor(mom/(ticket+ice))} \\approx \\frac{${mom}}{${ticket} + ${ice}} $$`
+</script>
+
+****************************
